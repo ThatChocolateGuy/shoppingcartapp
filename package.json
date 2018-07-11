@@ -1,0 +1,35 @@
+{
+  "name": "shoppingcartapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0"
+  },
+  "description": "simple shopping cart example",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatChocolateGuy/shoppingcartapp.git"
+  },
+  "author": "thatchocolateguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatChocolateGuy/shoppingcartapp/issues"
+  },
+  "homepage": "https://github.com/ThatChocolateGuy/shoppingcartapp#readme",
+  "keywords": [
+    "shops",
+    "shopping",
+    "cart",
+    "ecommerce"
+  ]
+}
